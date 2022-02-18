@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Jean-FrontEnd/stats-preview-grid](https://github.com/Jean-FrontEnd/stats-preview-grid)
+- Solution URL: [https://github.com/Jean-FrontEnd/stats-preview-grid]()https://github.com/Jean-FrontEnd/stats-preview-grid
 - Live Site URL: [https://jean-frontend.github.io/stats-preview-grid/](https://jean-frontend.github.io/stats-preview-grid/)
 
 ## My process
